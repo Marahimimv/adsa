@@ -1,0 +1,10 @@
+C:\Users\HMcomputers\source\repos\Console Project\Console Project\obj\Debug\netcoreapp3.1\Console Project.csproj.AssemblyReference.cache
+C:\Users\HMcomputers\source\repos\Console Project\Console Project\obj\Debug\netcoreapp3.1\Console Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMcomputers\source\repos\Console Project\Console Project\obj\Debug\netcoreapp3.1\Console Project.AssemblyInfoInputs.cache
+C:\Users\HMcomputers\source\repos\Console Project\Console Project\obj\Debug\netcoreapp3.1\Console Project.AssemblyInfo.cs
+C:\Users\HMcomputers\source\repos\Console Project\Console Project\obj\Debug\netcoreapp3.1\Console Project.csproj.CoreCompileInputs.cache
+C:\Users\Mero\Desktop\Console-Project-main\Console Project\obj\Debug\netcoreapp3.1\Console Project.csproj.AssemblyReference.cache
+C:\Users\Mero\Desktop\Console-Project-main\Console Project\obj\Debug\netcoreapp3.1\Console Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mero\Desktop\Console-Project-main\Console Project\obj\Debug\netcoreapp3.1\Console Project.AssemblyInfoInputs.cache
+C:\Users\Mero\Desktop\Console-Project-main\Console Project\obj\Debug\netcoreapp3.1\Console Project.AssemblyInfo.cs
+C:\Users\Mero\Desktop\Console-Project-main\Console Project\obj\Debug\netcoreapp3.1\Console Project.csproj.CoreCompileInputs.cache
